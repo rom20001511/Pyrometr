@@ -1,0 +1,11 @@
+ds18b20.c:14:13:InitGPIO_RCC	16	static
+ds18b20.c:29:6:Init_Clock	4	static
+ds18b20.c:47:6:Delay_tick	24	static
+ds18b20.c:51:16:reset_ds18	8	static
+ds18b20.c:68:13:write_ds18	24	static
+ds18b20.c:87:17:read_ds18	24	static
+ds18b20.c:103:6:ds18b20_Init	16	static
+ds18b20.c:114:10:ds18b20_GetTemperature	16	static
+ds18b20.c:129:6:ds18b20_StartMeas	8	static
+ds18b20.c:138:6:ds18b20_SkipRom	8	static
+ds18b20.c:142:6:ds18b20_RealTemp	16	static

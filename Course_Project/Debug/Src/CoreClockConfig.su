@@ -1,0 +1,2 @@
+CoreClockConfig.c:3:6:SetSysClk_168MHz	4	static
+CoreClockConfig.c:39:6:SetSysClk_84MHz	8	static

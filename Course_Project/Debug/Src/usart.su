@@ -1,0 +1,2 @@
+usart.c:4:6:GPIOB_USART1_init	4	static
+usart.c:12:6:USART1_init	24	static
